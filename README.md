@@ -24,4 +24,8 @@ See below for the results by city:
 
 To address the disparities among types of cities, here are my recommendations:
 
-1. To increase the 
+1. Rural areas currently have the worst performance as far as number of rides go. This is likely due to the high average fares we are seeing and the fact that rural residents tend to cars. To address this, I recommend lowering the average fare per ride by about $5 and the average fare per driver by $5-10 by offering riders a temporary discount. Based on how offering a discount turns out, you could implement the lowered fare permanently.
+
+2. The current situation in suburban cities is in fairly good shape, so I would recommend just lowering the price per ride and per driver by a dollar or two. This could boost more rides.
+
+3. For urban cities we are seeing the highest number of rides. This might be due to the lower fares or might be due to urban residents' tendency to not own cars. If it's the latter, I would recommend raising fares by a dollar or two. The need to take public transportation or ride with Pyber might result in higher revenue despite raising the fare as people still need to get from point A to point B.
