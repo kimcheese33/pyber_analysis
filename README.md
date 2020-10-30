@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis was to use MapPlotLib and Pandas to analyze and create visualizations on PyBer data to see where improvements could be made. Using Pandas, we created dataframes to show how rides, fares, and number of drivers differed based on whether a city was urban, suburban, or rural. We used MapPlotLib to create a line chart showing the results.
+The purpose of this analysis was to use MatPlotLib and Pandas to analyze and create visualizations on PyBer data to see where improvements could be made. Using Pandas, we created dataframes to show how rides, fares, and number of drivers differed based on whether a city was urban, suburban, or rural. We used MatPlotLib to create a line chart showing the results.
 
 ## Results
 
